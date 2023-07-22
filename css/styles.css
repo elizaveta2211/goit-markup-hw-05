@@ -533,7 +533,7 @@ img {
     background-color: transparent;
     color: #FFFFFF;
     font-size: 12px;
-    line-height: 1.5px;
+    line-height: 1.5;
     letter-spacing: 0.04em;
     outline: transparent;
     border-radius: 4px;
@@ -701,7 +701,7 @@ img {
 .modal-form-label-checkbox {
     font-size: 12px;
     line-height: 1.17;
-    letter-spacing: 0.05em;
+    letter-spacing: 0.04em;
     user-select: none;
     color: var(--lightslate-cl);
     
